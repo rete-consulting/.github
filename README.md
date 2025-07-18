@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![rete consulting](https://raw.githubusercontent.com/rete-consulting/rete-consulting/main/assets/logo.png)
+<img src="https://raw.githubusercontent.com/rete-consulting/.github/main/rete-inverted-nobg.png" alt="rete consulting" width="150">
 
 **Simplify, Automate, and Accelerate Your Business**
 
